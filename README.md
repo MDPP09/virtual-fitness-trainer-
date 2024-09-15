@@ -3,4 +3,5 @@ The Virtual Fitness Trainer uses OpenCV and MediaPipe to track and count exercis
 
 
 #installation
-You can download the file with git clone or zip to run it. You can access virtual fitness .exe
+
+You can download  the file with git clone on ur bash command or zip. to run it You can access virtual fitness .exe 
